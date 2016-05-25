@@ -1,0 +1,4 @@
+# Global gitignore.
+# To add, run: git config --global core.excludesfile ~/.gitignore 
+*.swp
+*.swo
