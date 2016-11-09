@@ -9,6 +9,7 @@ set softtabstop=2
 set showcmd
 set showmatch
 set encoding=utf-8
+set autoread
 
 set hlsearch
 nnoremap <leader><space> :nohlsearch<CR> " leader is a backslash!
